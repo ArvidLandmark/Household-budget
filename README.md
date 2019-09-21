@@ -11,3 +11,6 @@ Enjoy!
 The data used in the example file was gathered by Nils, based on real usage from September 2018 to July 2019. 
 
 Created by Arvid Landmark, September 2018. 
+
+Preview:
+![image](household budget.png)
