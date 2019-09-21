@@ -13,4 +13,4 @@ The data used in the example file was gathered by Nils, based on real usage from
 Created by Arvid Landmark, September 2018. 
 
 Preview:
-![image](household budget.png)
+![image](household_budget.png)
