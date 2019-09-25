@@ -13,5 +13,7 @@ The data used in the example file was gathered by my friend Nils, based on real 
 
 Created by Arvid Landmark, September 2018. 
 
-Preview:
-![image](household_budget.png)
+Overview:
+![image](budget_overview.png)
+Monthly view:
+![image](budget_monthview.png)
