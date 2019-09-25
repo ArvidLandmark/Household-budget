@@ -16,4 +16,4 @@ Created by Arvid Landmark, September 2018.
 Preview:
 ![image](household_budget.png)
 Monthly input:
-![image](budget2.png)
+![image](household_budget_md.png)
