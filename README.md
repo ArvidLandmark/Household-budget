@@ -2,8 +2,8 @@ Welcome to my household budget!
 
 This is a household budget created in Excel and Visual Basic. 
 
-Look through the Budget_example for an overview how the project looks like.
-To get going; open up Budget_empty file and scroll down to use the START!-button at desired month. Choose what categories you would like to use and enter your expenses accordingly.
+Look through the example file for an overview how the project looks like.
+To get going; open up the empty file and scroll down to use the START!-button at desired month. Choose what categories you would like to use and enter your expenses accordingly.
 
 Further instructions can be found inside the file. 
 
