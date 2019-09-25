@@ -9,7 +9,7 @@ Further instructions can be found inside the file.
 
 Enjoy!
 
-The data used in the example file was gathered by my friend Nils, based on real usage from September 2018 to July 2019. 
+The data used in the example file was gathered by my friend Nils, based on real usage from September 2018 to August 2019. 
 
 Created by Arvid Landmark, September 2018. 
 
