@@ -1,15 +1,14 @@
 Welcome to my household budget!
 
-This is a household budget created in Excel and Visual Basic. 
+Keep track of your daily expenses and identify the areas in which you spend the most. Look through the example file for an overview how the project looks like.
 
-Look through the example file for an overview how the project looks like.
-To get going; open up the empty file and scroll down to use the START!-button at desired month. Choose what categories you would like to use and enter your expenses accordingly.
+To get going; open up the empty file and press the START!-button at desired month. Choose what categories to track and enter your expenses accordingly.
 
 Further instructions can be found inside the file. 
 
 Enjoy!
 
-The data used in the example file was gathered by my friend Nils, based on real usage from September 2018 to August 2019. 
+Created in Excel and Visual Basic. The data used in the example file was gathered by my friend Nils, based on real usage from September 2018 to August 2019. 
 
 Created by Arvid Landmark, September 2018. 
 
